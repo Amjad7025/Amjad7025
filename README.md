@@ -64,14 +64,14 @@ Uses data like population, disaster impact, and resources,
 Applies machine learning for priority allocation,
 Improves fairness and efficiency of aid distribution,Supports faster disaster response
 
-### ENERGY CONSUMPTION ANALYSIS
+### ⚡ ENERGY CONSUMPTION ANALYSIS
 
 Studies energy usage patterns over time,
 Analyzes consumption based on location and appliances,
 Identifies peak and off-peak usage trends,
 Helps reduce energy waste and cost,Supports efficient energy managementv
 
-### LOAN PREDICTION DATA DRIVEN INSIGHTS FOR CREDIT RISK PREDICTION
+### 💹 LOAN PREDICTION DATA DRIVEN INSIGHTS FOR CREDIT RISK PREDICTION
 
 This project focuses on analyzing the key factors 
 that influence whether a loan application is approved or rejected.
