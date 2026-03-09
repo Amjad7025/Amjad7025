@@ -71,13 +71,14 @@ Analyzes consumption based on location and appliances,
 Identifies peak and off-peak usage trends,
 Helps reduce energy waste and cost,Supports efficient energy managementv
 
-### LOAN PREDICTION DATA-DRIVEN-INSIGHTS-FOR-CREDIT-RISK-ASSESSMENT
+### LOAN PREDICTION DATA DRIVEN INSIGHTS FOR-CREDIT RISK ASSESSMENT
 
-The project “LOAN PREDICTION: DATA-DRIVEN INSIGHTS FOR CREDIT RISK ASSESSMENT”
-focuses on understanding and analyzing the factors that influence whether a loan application will be approved or not.
+This project focuses on analyzing the key factors 
+that influence whether a loan application is approved or rejected.
 Using Exploratory Data Analysis (EDA) techniques,
-this project aims to uncover hidden patterns,
-trends, and relationships within the loan dataset.
+the dataset is examined to identify patterns, trends, 
+and relationships between different variables such as applicant income,
+credit history, loan amount, and other demographic features.
 ---
 
 ## 📈 GitHub Analytics  
