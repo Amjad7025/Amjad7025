@@ -73,12 +73,9 @@ Helps reduce energy waste and cost,Supports efficient energy managementv
 
 ### 💹 LOAN PREDICTION DATA DRIVEN INSIGHTS FOR CREDIT RISK PREDICTION
 
-This project focuses on analyzing the key factors 
-that influence whether a loan application is approved or rejected.
-Using Exploratory Data Analysis (EDA) techniques,
-the dataset is examined to identify patterns, trends, 
-and relationships between different variables such as applicant income,
-credit history, loan amount, and other demographic features.
+This project analyzes the factors that affect loan approval using Exploratory Data Analysis (EDA).
+It identifies patterns and relationships in the dataset, such as income, credit history, and loan amount,
+to understand what influences loan approval decisions.
 ---
 
 ## 📈 GitHub Analytics  
