@@ -64,11 +64,18 @@ Uses data like population, disaster impact, and resources,
 Applies machine learning for priority allocation,
 Improves fairness and efficiency of aid distribution,Supports faster disaster response
 
-### ⚖ ML Bias Prediction
-- Supervised ML model to detect and mitigate **biased speech in text**.  
-- Uses NLP techniques for **classification of biased vs unbiased statements**.  
-- Provides insights for ethical AI applications.
+### ENERGY CONSUMPTION ANALYSIS
+Studies energy usage patterns over time,
+Analyzes consumption based on location and appliances,
+Identifies peak and off-peak usage trends,
+Helps reduce energy waste and cost,Supports efficient energy managementv
 
+### LOAN-PREDICTION-DATA-DRIVEN-INSIGHTS-FOR-CREDIT-RISK-ASSESSMENT
+The project “LOAN PREDICTION: DATA-DRIVEN INSIGHTS FOR CREDIT RISK ASSESSMENT”
+focuses on understanding and analyzing the factors that influence whether a loan application will be approved or not.
+Using Exploratory Data Analysis (EDA) techniques,
+this project aims to uncover hidden patterns,
+trends, and relationships within the loan dataset.
 ---
 
 ## 📈 GitHub Analytics  
