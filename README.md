@@ -48,10 +48,11 @@
 
 ## 🔥 Featured Projects  
 
-### 📝 OrmaAI – AI Digital Diary
-- AI-powered diary that analyzes user entries with **sentiment analysis** and **RAG retrieval**.  
-- Users can **ask questions about past entries**, track mood patterns, and get AI-generated insights.  
-- Built with **Python, PyTorch, Hugging Face Transformers**.
+### 📝 PREDICTIVE-MODEL-FOR-HUMANITARIAN-AID-ALLOCATION
+Predicts regions needing urgent humanitarian support,
+Uses data like population, disaster impact, and resources,
+Applies machine learning for priority allocation,
+Improves fairness and efficiency of aid distribution,Supports faster disaster response
 
 ### ⚖ ML Bias Prediction
 - Supervised ML model to detect and mitigate **biased speech in text**.  
@@ -63,7 +64,7 @@
 ## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akbaralipk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amjad7025&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbaralipk&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
