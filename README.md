@@ -65,12 +65,14 @@ Applies machine learning for priority allocation,
 Improves fairness and efficiency of aid distribution,Supports faster disaster response
 
 ### ENERGY CONSUMPTION ANALYSIS
+
 Studies energy usage patterns over time,
 Analyzes consumption based on location and appliances,
 Identifies peak and off-peak usage trends,
 Helps reduce energy waste and cost,Supports efficient energy managementv
 
-### LOAN-PREDICTION-DATA-DRIVEN-INSIGHTS-FOR-CREDIT-RISK-ASSESSMENT
+### LOAN PREDICTION DATA-DRIVEN-INSIGHTS-FOR-CREDIT-RISK-ASSESSMENT
+
 The project “LOAN PREDICTION: DATA-DRIVEN INSIGHTS FOR CREDIT RISK ASSESSMENT”
 focuses on understanding and analyzing the factors that influence whether a loan application will be approved or not.
 Using Exploratory Data Analysis (EDA) techniques,
