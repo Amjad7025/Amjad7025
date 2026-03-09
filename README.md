@@ -59,23 +59,28 @@
 ## 🔥 Featured Projects  
 
 ### 📝 PREDICTIVE-MODEL-FOR-HUMANITARIAN-AID-ALLOCATION
-Predicts regions needing urgent humanitarian support,
-Uses data like population, disaster impact, and resources,
-Applies machine learning for priority allocation,
-Improves fairness and efficiency of aid distribution,Supports faster disaster response
+
+- Predicts regions requiring urgent humanitarian aid
+- Uses data such as population, disaster impact, and available resources
+- Applies machine learning models for priority-based aid allocation
+- Improves fairness and efficiency in aid distribution
+- Supports faster and data-driven disaster response
 
 ### ⚡ ENERGY CONSUMPTION ANALYSIS
 
-Studies energy usage patterns over time,
-Analyzes consumption based on location and appliances,
-Identifies peak and off-peak usage trends,
-Helps reduce energy waste and cost,Supports efficient energy managementv
+- Analyzes energy usage patterns over time
+- Studies consumption based on location and appliance usage
+- Identifies peak and off-peak energy demand trends
+- Helps reduce energy waste and operational costs
+- Supports efficient and sustainable energy management
 
 ### 💹 LOAN PREDICTION DATA DRIVEN INSIGHTS FOR CREDIT RISK PREDICTION
 
-This project analyzes the factors that affect loan approval using Exploratory Data Analysis (EDA).
-It identifies patterns and relationships in the dataset, such as income, credit history, and loan amount,
-to understand what influences loan approval decisions.
+- Performs Exploratory Data Analysis (EDA) on loan datasets
+- Examines factors affecting loan approval decisions
+- Analyzes features like income, credit history, and loan amount
+- Identifies patterns and relationships in financial data
+- Provides insights for credit risk assessment and decision-making
 ---
 
 ## 📈 GitHub Analytics  
