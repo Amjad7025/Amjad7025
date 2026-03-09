@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amjad Shibilaj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer;ML+Enthusiast;Generative+AI+Builder;Computer+Vision+Developer;Building+Intelligent+AI+Systems" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=FF5733&center=true&vCenter=true&width=900&lines=AI+Developer" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=0077B6&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=6A994E&center=true&vCenter=true&width=900&lines=Generative+AI+Builder" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=9D4EDD&center=true&vCenter=true&width=900&lines=Computer+Vision+Developer" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=F4A261&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems" />
+
 </p>
 
 ---
