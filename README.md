@@ -58,6 +58,15 @@
 
 ## 🔥 Featured Projects  
 
+### 🦚 CULTURAL-AI-PRESERVING-KERALA-S-HERITAGE-THROUGH-RETRIEVAL-AUGMENTED-GENERATION
+
+ -  Uses a Retrieval-Augmented Generation (RAG) system to provide accurate and context-aware information about Kerala’s culture, traditions, festivals, rituals, and heritage.
+ - Integrates a local document knowledge base to retrieve reliable cultural information before generating answers.
+ - Supports multilingual question answering, allowing users to ask questions in different languages.
+ - Includes voice input functionality to convert speech into text for easy interaction.
+ - Provides text-to-speech output powered by a local Large Language Model (LLM) to deliver spoken responses.
+
+
 ### 📝 PREDICTIVE-MODEL-FOR-HUMANITARIAN-AID-ALLOCATION
 
 - Predicts regions requiring urgent humanitarian aid
